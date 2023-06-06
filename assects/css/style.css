@@ -2,7 +2,7 @@
 Project:	    Selfer
 Version:        1.0.0
 
-Default Color   #f26c4f;
+Default Color   #39FF14;
 Background Color  #020312;
 
 Body copy:		'Roboto', sans-serif; 14px;
@@ -335,7 +335,7 @@ B. Helpers
 }
 
 .ts-font-color__primary {
-    color: #f26c4f;
+    color: #39FF14;
 }
 
 .ts-bg-primary {
@@ -1630,7 +1630,7 @@ form.ts-labels-inside-input .form-group label.focused,
 }
 
 .ts-item-header .icon .step {
-    background-color: #f26c4f;
+    background-color: #39FF14;
     top: 0;
     box-shadow: .125rem .1875rem .9375rem rgba(0, 0, 0, .15);
     border-radius: 50%;
@@ -1659,7 +1659,7 @@ form.ts-labels-inside-input .form-group label.focused,
 
 ul.ts-list-colored-bullets li:before {
     content: "â€¢";
-    color: #f26c4f;
+    color: #39FF14;
     vertical-align: middle;
     font-size: 1.75rem;
     padding-right: .75rem;
@@ -2006,7 +2006,7 @@ select::-ms-expand {
 .nav-tabs .nav-link.active {
     color: #191919;
     background-color: transparent;
-    border-bottom: .1875rem solid #f26c4f;
+    border-bottom: .1875rem solid #39FF14;
     opacity: 1;
 }
 
@@ -2414,12 +2414,12 @@ E. Template Specific Elements
 }
 
 .ts-time-line__horizontal .ts-time-line__item.ts-time-line__milestone .ts-box {
-    background-color: #f26c4f;
+    background-color: #39FF14;
     color: #fff;
 }
 
 .ts-time-line__horizontal .ts-time-line__item.ts-time-line__milestone .ts-box:after {
-    border-color: #f26c4f transparent transparent transparent;
+    border-color: #39FF14 transparent transparent transparent;
 }
 
 .ts-time-line__horizontal .ts-time-line__item.ts-time-line__milestone h5 {
